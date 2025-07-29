@@ -1,11 +1,11 @@
 # 👋 ¡Hola! Soy David Bernardo Patzi Vargas
 
-🎯 **Desarrollador Full-Stack** con más de 2 años de experiencia en el desarrollo de aplicaciones web escalables, seguras y bien estructuradas. Apasionado por la mejora continua, las buenas prácticas de programación (SOLID, Clean Code) y la construcción de soluciones orientadas a microservicios.
+🎯 **Desarrollador Full-Stack con enfoque en Backend** con más de 2 años de experiencia en el desarrollo de aplicaciones web escalables, seguras y bien estructuradas. Apasionado por la mejora continua, las buenas prácticas de programación (SOLID, Clean Code) y la construcción de soluciones orientadas a microservicios.
 
 ---
 
 💼 **Actualmente...**
-Estoy abierto a nuevas oportunidades profesionales. Mientras tanto, continúo fortaleciendo mis conocimientos en tecnologías como **Nest.js**, **Angular** y **RxJS**, además de avanzar en un proyecto personal que involucra trazabilidad con **blockchain** (Hyperledger.js).
+Estoy abierto a nuevas oportunidades profesionales. Mientras tanto, continúo fortaleciendo mis conocimientos en tecnologías como **Nest.js**, **AWS** y **Ingles**, además de avanzar en un proyecto personal que involucra trazabilidad con **blockchain** (Hyperledger.js).
 
 ---
 
