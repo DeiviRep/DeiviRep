@@ -5,7 +5,7 @@
 ---
 
 💼 **Actualmente...**
-Estoy abierto a nuevas oportunidades profesionales. Mientras tanto, continúo fortaleciendo mis conocimientos en tecnologías como **Nest.js**, **AWS** y **Ingles**, además de avanzar en un proyecto personal que involucra trazabilidad con **blockchain** (Hyperledger.js).
+Estoy abierto a nuevas oportunidades profesionales. Mientras tanto, continúo fortaleciendo mis conocimientos en tecnologías como **Nest.js**, **AWS** y **Ingles**, además de avanzar en un proyecto personal que involucra trazabilidad con **blockchain** (Hyperledger.js). Este proyecto no solo es un ejercicio técnico, sino también una muestra de mi dedicación y pasión por mi trabajo.
 
 ---
 
