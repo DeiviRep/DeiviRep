@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy David Bernardo Patzi Vargas
+# 💫 About Me:
 
 🎯 **Desarrollador Full-Stack con enfoque en Backend** con más de 2 años de experiencia en el desarrollo de aplicaciones web escalables, seguras y bien estructuradas. Apasionado por la mejora continua, las buenas prácticas de programación (SOLID, Clean Code) y la construcción de soluciones orientadas a microservicios.
 
@@ -9,7 +9,7 @@ Estoy abierto a nuevas oportunidades profesionales. Mientras tanto, continúo fo
 
 ---
 
-🚀 **Stack Tecnológico**
+# 💻 Tech Stack:
 
 - **Lenguajes:** Java · TypeScript · JavaScript · Python  
 - **Frontend:** Angular · Next.js · Vue.js · React · Material-UI  
@@ -35,4 +35,4 @@ Estoy abierto a nuevas oportunidades profesionales. Mientras tanto, continúo fo
 
 🎓 **Formación Académica**
 
-- 📘 Ingeniería de Sistemas (en curs
+- 📘 Ingeniería de Sistemas (en curso)
