@@ -29,7 +29,3 @@ Estoy abierto a nuevas oportunidades profesionales. Mientras tanto, continúo fo
   Aplicación con geolocalización, generación de QR y trazabilidad mediante blockchain.
 
 ---
-
-🎓 **Formación Académica**
-
-- 📘 Ingeniería de Sistemas (en curso)
