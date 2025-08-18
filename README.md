@@ -9,11 +9,11 @@ Estoy abierto a nuevas oportunidades profesionales. Mientras tanto, continúo fo
 # 💻 Tech Stack:
 
 - **Lenguajes:** Java · TypeScript · JavaScript · Python  
-- **Frontend:** Angular · Next.js · Vue.js · React · Material-UI  
+- **Frontend:** Angular · Next.js · Vue.js · React · Material-UI · Tailwind CSS
 - **Backend:** Spring Boot · Nest.js · Flask  
 - **Bases de datos:** PostgreSQL · MySQL  
 - **DevOps & Tools:** Docker · Git · GitHub · GitLab · Postman · Gradle  
-- **Diseño:** Figma · HeroUI  
+- **Diseño:** Figma · CSS · HTML · Librerias
 - **Otros:** TypeORM · JWT · OAuth · Microservicios · Scrum
 
 ---
