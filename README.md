@@ -13,3 +13,6 @@ Actualmente, me encuentro en la búsqueda de un nuevo desafío profesional. Mien
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deiviRep&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+
+Cuando no estoy programando: Guitarist 🎸, traveler 🌎, and GYM & wellness enthusiast 😉. ¿Conversamos?
